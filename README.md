@@ -1,4 +1,4 @@
 # AirQualityPrediction
 
-Using linear regression I have predicted Air quality of a certain Data set.
+Using linear regression I have predicted Air quality from a certain Data set.
 
